@@ -1,0 +1,25 @@
+{
+  "name": "google-activity-parser",
+  "version": "1.0.0",
+  "description": "Parse google activity to JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [
+    "parse",
+    "json",
+    "google",
+    "activity"
+  ],
+  "author": "ntarecord@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "minimist": "^1.2.0",
+    "moment": "^2.22.0"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
