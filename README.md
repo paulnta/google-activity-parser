@@ -20,7 +20,7 @@ Options:
 -o, --output <file>   (optional) save as a file.
 -h, --help            show usage
 
-$ google-activity-parser --input ~/Donwolads/MyActivity.html
+$ google-activity-parser --input ~/Downloads/MyActivity.html
 
 [{
     "query": "moment js timezone",
