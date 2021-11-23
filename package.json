@@ -1,6 +1,6 @@
 {
   "name": "google-activity-parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Command-line utility to parse your google searches and browsing activity",
   "main": "lib/parser.js",
   "bin": {
